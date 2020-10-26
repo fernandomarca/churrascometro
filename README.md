@@ -19,3 +19,4 @@ Aplicativo que ajudar a calcular o churrasco para os visitantes.
 ## Licença
 
 Esse projeto está sob a licença MIT.
+<a href="LICENSE">Conheça sobre a licença MIT.</a>
